@@ -1,0 +1,14 @@
+﻿[
+  {
+    "outputFile": "themes/contrib/holistic/css/style.css",
+    "inputFile": "themes/contrib/holistic/sass/style.scss"
+  },
+  {
+    "outputFile": "themes/contrib/engine/css/material/materialize.css",
+    "inputFile": "themes/contrib/engine/sass/material/sass/materialize.scss"
+  },
+  {
+    "outputFile": "themes/contrib/engine/css/custom/custom.css",
+    "inputFile": "themes/contrib/engine/sass/custom/custom.scss"
+  }
+]
