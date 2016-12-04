@@ -1,0 +1,19 @@
+﻿@import "../base/base";
+@import "refills";
+
+
+
+.maintenance-page {
+    background: url(../../images/optimized/mystic_garden.jpg);
+    background-size: cover;
+    color:#fff;
+
+    .layout-container {
+        margin:auto;
+        text-align:center;
+    
+    a, a:link {
+        color: #fff;
+    }
+    }
+}

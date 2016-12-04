@@ -1,0 +1,9 @@
+.form-type-checkbox {
+    margin-left: 1.5em;
+}
+
+table .checkbox {
+    display:grid;
+    margin-top:0;
+    margin-bottom:0;
+}
